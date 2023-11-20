@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1db555c6ae790343ae70e076dc007c1, type: 3}
+  m_Name: Mega_Buger
+  m_EditorClassIdentifier: 
+  recipes:
+  - {fileID: 11400000, guid: 824fe964b98c0a14abf8d90733d4556b, type: 2}
+  - {fileID: 11400000, guid: 51cf3d41a91baa84790d2b4a91493248, type: 2}
+  - {fileID: 11400000, guid: d134902bb42fd384b81a30ece3167748, type: 2}
+  - {fileID: 11400000, guid: af24a411822a1c04f8abdb838ae64000, type: 2}
+  RecipeName: Mega_Buger
